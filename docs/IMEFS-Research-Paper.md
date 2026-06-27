@@ -134,6 +134,8 @@ To design, build, calibrate, and evaluate a portable Integrated Mineral Explorat
 
 _Complete this section incrementally as you read. Aim for 15–25 references by dissertation submission._
 
+**Learning resources:** Track books and videos in [`Learning-Resources.md`](Learning-Resources.md) — each subsection below maps to recommended readings there.
+
 ### 5.1 Exploration geophysics fundamentals
 
 _[TODO: Summarize magnetic surveying, electrical resistivity, and their role in mineral exploration.]_
@@ -718,6 +720,7 @@ SURVEY-001,42,2026-06-27T10:30:00Z,-12.123456,26.456789,1285.2,18.4,-5.2,42.1,45
 | Version | Date | Author | Changes |
 |---------|------|--------|---------|
 | 0.1.0 | 2026-06-27 | Mark Sikaundi | Initial living paper scaffold from Journey and Roadmap |
+| 0.1.1 | 2026-06-27 | Mark Sikaundi | Linked Learning-Resources.md for books and video tracking |
 
 ---
 

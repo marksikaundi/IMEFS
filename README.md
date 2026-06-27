@@ -405,6 +405,8 @@ This moves the project from data collection toward **intelligent decision suppor
 
 See [Research Angle](#research-angle) for the core literature list. Additional project planning detail lives in:
 
+- [`docs/Learning-Resources.md`](docs/Learning-Resources.md) — Books, YouTube channels, and websites (with progress checklists)
+- [`docs/IMEFS-Research-Paper.md`](docs/IMEFS-Research-Paper.md) — Living research paper / dissertation draft
 - [`Journey.md`](Journey.md) — Learning path and skill-building phases
 - [`Roadmap.md`](Roadmap.md) — Full three-year development plan
 
